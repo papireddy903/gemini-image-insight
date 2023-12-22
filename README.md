@@ -10,7 +10,7 @@ Image Insight is an application that leverages the power of Google's Gemini Pro 
 
 2. **Type a Prompt:** Enter a prompt or a description related to the image to guide the generative process.
 
-3. **Click "Ask Gemini":** Interact with the "Ask Gemini" button to initiate the model and receive descriptive text based on the image and prompt.
+3. **Click "Submit":** Interact with the "Submit" button to initiate the model and receive descriptive text based on the image and prompt.
 
 ## Tech Stack
 
