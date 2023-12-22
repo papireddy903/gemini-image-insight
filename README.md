@@ -31,5 +31,5 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Demo: Image insight (https://github.com/Mintplex-Labs/anything-llm)
+Demo: Image insight (https://huggingface.co/spaces/Papireddy/geminipro-describe-image)
 
