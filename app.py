@@ -13,7 +13,6 @@ model = genai.GenerativeModel("gemini-pro-vision")
     
 
 def process_image(img_path, prompt):
-    # Use the img_path directly to pass it to the model
     print("Image Path:", img_path)
     print("Prompt:", prompt)
     
